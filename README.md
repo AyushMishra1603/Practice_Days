@@ -1,3 +1,2 @@
 # Hey There!
-My name is Ayush Mishra
-Here I have added my python notes
+My name is Ayush Mishra. I've included my Python notes here. Some really nice Python projects are in this repository.
