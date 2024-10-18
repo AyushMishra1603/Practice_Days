@@ -1,7 +1,3 @@
-Hey There!
-<br>
+# Hey There!
 My name is Ayush Mishra
-</br>
-<br>
-I'll add my python projects here
-</br>
+Here I have added my python notes
